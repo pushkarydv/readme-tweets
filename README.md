@@ -23,7 +23,7 @@ Replace `your-twitter-usernmame` with your username eg: `pushkaryadavin` in endp
  ```
  
 ## By Tweet Id - Specific Tweet 
-Replace `tweet-id` with your tweet id eg:tweet id in URL status/1592595196482826240 is `1592595196482826240` in endpoint URL. You can use ID extractor in our website to directly generate this endopint. [Tweeco🚀](https://tweeco.pushkaryadav.in)
+Replace `tweet-id` with your tweet id eg:tweet id in URL status/1592595196482826240 is `1592595196482826240` in endpoint URL. You can use ID extractor in our website to directly generate this endpoint. [Tweeco🚀](https://tweeco.pushkaryadav.in)
 - __Markdown Code__
 ```markdown
  [![](https://tweeco.pushkaryadav.in/api/id/tweet-id)](https://tweeco.pushkaryadav.in)
