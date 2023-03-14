@@ -39,7 +39,7 @@ Replace `tweet-id` with your tweet id eg:tweet id in URL status/1592595196482826
 Use color codes only without # Eg: `fff`
 | Property Code                                                  | Work                                               |
 | -------------------------------------------------------------- | -------------------------------------------------- |
-| test                    | gives text color                               |
+| text                    | gives text color                               |
 | border                      | border color             |
 | width                   | width of image rendered                          |
 | bg                   |  background color                          |
