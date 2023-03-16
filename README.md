@@ -37,14 +37,14 @@ Replace `tweet-id` with your tweet id eg:tweet id in URL status/1592595196482826
 ## Let's Talk about Costumization 🌟
 
 Use color codes only without # Eg: `fff`
-| Property Code                                                  | Work                                               |
-| -------------------------------------------------------------- | -------------------------------------------------- |
-| text                    | gives text color                               |
-| border                      | border color             |
-| width                   | width of image rendered                          |
-| bg                   |  background color                          |
-| title                   | title color                        |
-| icon                   | twitter icon color                        |
+| Property Code | Work                    |
+| ------------- | ----------------------- |
+| text          | gives text color        |
+| border        | border color            |
+| width         | width of image rendered |
+| bg            | background color        |
+| title         | title color             |
+| icon          | twitter icon color      |
 
 same applies for id based endpoints. You can use multiple properties by using `&`. Eg:
 ```
